@@ -1,0 +1,47 @@
+﻿  Animation.c
+  AnimationState.c
+  AnimationStateData.c
+  Atlas.c
+  AtlasAttachmentLoader.c
+  Attachment.c
+  AttachmentLoader.c
+  Bone.c
+  BoneData.c
+  BoundingBoxAttachment.c
+  Event.c
+  EventData.c
+  extension.c
+  IkConstraint.c
+  IkConstraintData.c
+  Json.c
+  MeshAttachment.c
+  RegionAttachment.c
+  Skeleton.c
+  SkeletonBounds.c
+  SkeletonData.c
+  SkeletonJson.c
+  Skin.c
+  SkinnedMeshAttachment.c
+  Slot.c
+  SlotData.c
+  PolygonBatch.cpp
+  SkeletonAnimation.cpp
+  SkeletonRenderer.cpp
+  spine-cocos2dx.cpp
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(252): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: see declaration of 'cocos2d::DrawPrimitives::setDrawColor4B'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(265): warning C4996: 'cocos2d::DrawPrimitives::drawPoly': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(142): note: see declaration of 'cocos2d::DrawPrimitives::drawPoly'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(271): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: see declaration of 'cocos2d::DrawPrimitives::setDrawColor4B'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(276): warning C4996: 'cocos2d::DrawPrimitives::drawLine': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(115): note: see declaration of 'cocos2d::DrawPrimitives::drawLine'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(279): warning C4996: 'cocos2d::DrawPrimitives::setPointSize': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(263): note: see declaration of 'cocos2d::DrawPrimitives::setPointSize'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(280): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: see declaration of 'cocos2d::DrawPrimitives::setDrawColor4B'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(283): warning C4996: 'cocos2d::DrawPrimitives::drawPoint': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(100): note: see declaration of 'cocos2d::DrawPrimitives::drawPoint'
+c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\editor-support\spine\skeletonrenderer.cpp(284): warning C4996: 'cocos2d::DrawPrimitives::setDrawColor4B': was declared deprecated
+  c:\users\drew\desktop\development\mensinvicta\ddbp_determine\ddbp\cocos2d\cocos\2d\ccdrawingprimitives.h(245): note: see declaration of 'cocos2d::DrawPrimitives::setDrawColor4B'
+  libSpine.vcxproj -> C:\Users\Drew\Desktop\Development\MensInvicta\DDBP_Determine\DDBP\proj.win32\Debug.win32\libSpine.lib
